@@ -1,16 +1,66 @@
-## Hi there 👋
+<!--
+  ИНСТРУКЦИЯ:
+  1. Создай на GitHub новый репозиторий с именем ТОЧНО как твой юзернейм: Crew1pse
+     (сделай его Public — иначе README не появится на странице профиля)
+  2. Положи этот файл туда как README.md
+  3. Замени везде "Crew1pse" на свой юзернейм, если он изменится
+  4. Заполни разделы "О себе" и "Проекты" под себя
+  5. Удали этот блок комментария перед публикацией
+-->
+
+<h1 align="center">Привет 👋, я Дмитрий</h1>
+<h3 align="center">Разработчик • Space Agency</h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" />
+</p>
+
+---
+
+### О себе
+
+- 🔭 Сейчас работаю над **BadPakket AI Visualizer** — AI-инструментом визуализации ремонта ванных/кухонь
+- 🌱 Изучаю ML-пайплайны: ControlNet, LoRA, сегментация изображений
+- 💬 Пишу на Python, Go
+- 📫 Как со мной связаться: *(вставь почту/телеграм)*
+
+---
+
+### 🛠 Стек
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+---
+
+### 📌 Проекты
 
 <!--
-**Crew1pse/Crew1pse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  Замени ссылки/описания на свои реальные репозитории.
+  Формат: **[Название](ссылка)** — короткое описание, что делает и на чём написано.
 -->
+
+- **[FitForch](https://github.com/Crew1pse/FitForch)** — *(опиши в одну строку, что это)*
+- **[morskoi_boi](https://github.com/Crew1pse/morskoi_boi)** — реализация игры "Морской бой" на Python
+- **[затраты](https://github.com/Crew1pse/затраты)** — *(например: трекер личных расходов)*
+
+---
+
+### 📊 Статистика GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Crew1pse&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crew1pse&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Crew1pse&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
