@@ -9,7 +9,7 @@
 -->
 
 <h1 align="center">Привет 👋, я Дмитрий</h1>
-<h3 align="center">Разработчик • Space Agency</h3>
+<h3 align="center">Разработчик</h3>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" />
