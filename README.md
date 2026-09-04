@@ -19,10 +19,17 @@
 
 ### 🧭 О себе
 
+- 🚀 Работаю под именем **Space Agency** — независимая разработка
 - 🧠 Занимаюсь Computer Vision / ML: сегментация изображений, генеративные модели, дообучение (LoRA)
 - 🖥 Инфраструктура: деплой на GPU (RunPod), Docker
 - 🏆 Решаю алгоритмические задачи
 - 💬 Пишу на **Python** и **Go**
+- 📫 Связь: *### CHANGE ME: telegram / почта ###*
+
+<div align="center">
+  <a href="### CHANGE ME: ссылка на telegram ###"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:### CHANGE ME: почта ###"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
 
 ---
 
@@ -70,6 +77,10 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Crew1pse&theme=radical&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Crew1pse&theme=react-dark&hide_border=true" width="90%" />
 </div>
 
 <div align="center">
