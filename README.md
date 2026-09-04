@@ -9,7 +9,7 @@
 -->
 
 <h1 align="center">Привет 👋, я Дмитрий</h1>
-<h3 align="center">Разработчик</h3>
+<h3 align="center">Разработчик • Space Agency</h3>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" />
@@ -44,9 +44,10 @@
   Формат: **[Название](ссылка)** — короткое описание, что делает и на чём написано.
 -->
 
-- **[FitForch](https://github.com/Crew1pse/FitForch)** — *(опиши в одну строку, что это)*
-- **[morskoi_boi](https://github.com/Crew1pse/morskoi_boi)** — реализация игры "Морской бой" на Python
-- **[затраты](https://github.com/Crew1pse/затраты)** — *(например: трекер личных расходов)*
+- **[bgitu-events](https://github.com/Crew1pse/bgitu-events)** — *(опиши в одну строку, что это — JavaScript)*
+- **[Pokazateli](https://github.com/Crew1pse/Pokazateli)** — *(опиши в одну строку, что это — JavaScript)*
+- **[_Detection_Face](https://github.com/Crew1pse/_Detection_Face)** — детекция лиц (Python)
+- **[Detection_](https://github.com/Crew1pse/Detection_)** — *(если дублирует _Detection_Face — рассмотри вариант удалить один из двух)*
 
 ---
 
