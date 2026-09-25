@@ -1,21 +1,4 @@
-<!--
-  ИНСТРУКЦИЯ:
-  1. Репозиторий Crew1pse/Crew1pse уже создан — просто замени README.md на этот файл
-  2. Заполни курсивные плейсхолдеры (### CHANGE ME ###) под себя
-  3. Ссылки на статистику подтягиваются сами по юзернейму Crew1pse — трогать не нужно
--->
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Crew1pse&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20Backend%20Developer&descAlignY=55&descSize=20" width="100%"/>
-
-<a href="https://github.com/Crew1pse">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9;Space+Agency+%E2%80%94+solo+dev;Python+%2F+Go+%2F+Computer+Vision" alt="Typing SVG" />
-</a>
-
-</div>
-
----
 
 ### 🧭 О себе
 
